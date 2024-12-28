@@ -35,7 +35,7 @@ A web browser is required to view and interact with the website.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sudeep-Bhandari/myntra-clone.git
+   git clone https://github.com/Sudeep-Bhandari/Myntra-Clone.git
 
 2. Navigate to the project directory:
    ```bash
