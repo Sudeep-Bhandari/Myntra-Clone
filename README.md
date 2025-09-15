@@ -3,7 +3,10 @@
 A responsive and interactive clone of the popular e-commerce platform **Myntra**, created using HTML, CSS, and JavaScript. This project replicates the design and basic functionality of Myntra to enhance my web development skills.
 
 ---
+##  Live Demo
+[Try it Live](https://sudeep-bhandari.github.io/Myntra-Clone/)  
 
+---
 ## Features
 - **Cart Functionality**: Allows users to add items to the cart and view cart contents.
 - **Responsive Design**: Ensures an optimal experience across devices (desktop, tablet, and mobile).
